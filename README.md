@@ -24,7 +24,8 @@ Le dataset contient notamment :
 
 ```text
 projet-tbd8-2026-gbaguidi-lauture/
-├── notebook_version_1.ipynb
+├── notebook.ipynb
+├── notebook.html
 ├── README.md
 ├── Taxi.csv
 ├── taxi_parquet/
