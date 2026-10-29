@@ -2,6 +2,9 @@
 
 Projet réalisé dans le cadre du cours de Technologies Big Data (TBD8).
 
+#Note a l'utilisateur 
+Rentrer la commande cat Taxi_parts/Taxi.csv.part-* > Taxi.csv avant utilisation 
+
 ## Description
 
 Ce projet a pour objectif de :
